@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje estou trabalhando como estagiário de Desenvolder FRON-END.
-- 🌱 Estudando JavaScript Html e css e PHP, como ainda estou começando na área de desenvovimento estudo tanto back-end como front-end.
+- 🔭 Atualmente atuo como Desenvolvedor Full Stack
+- 🌱 Estudando TypeScript
 - 📫 contate-me no email: ematheusneves13@gmail.com
 - 😄 Pronouns: ele/ dele.
 - ⚡ Fato engraçado: Eu sempre estudei procurando algo que eu me apaixona-se, então com 30 anos conheci a programação.
