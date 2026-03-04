@@ -37,6 +37,13 @@ Com uma trajetória de transição de carreira aos 30 anos, trago comigo maturid
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
 
+**AI Tools (Eficiência)**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot">
+</p>
+
 ---
 
 ### 📊 Estatísticas do GitHub
