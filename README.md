@@ -48,14 +48,14 @@ Com uma trajetória de transição de carreira aos 30 anos, trago comigo maturid
 
 ### 📊 Estatísticas do GitHub
 
+### 📊 Estatísticas do GitHub
+
 <div align="center">
   <a href="https://github.com/edumatheus65">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edumatheus65&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumatheus65&layout=compact&langs_count=7&theme=merko"/>
   </a>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://github.com/edumatheus65/edumatheus65/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -66,5 +66,13 @@ Com uma trajetória de transição de carreira aos 30 anos, trago comigo maturid
 ### 📫 Vamos nos conectar?
 
 <div align="center">
-    ![Snake animation](https://github.com/edumatheus65/edumatheus65/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/eduardo-matheus-silva-das-neves-6659a6202/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ematheusneves13@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/edumatheus65/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
