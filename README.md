@@ -56,23 +56,10 @@ Com uma trajetória de transição de carreira aos 30 anos, trago comigo maturid
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumatheus65&layout=compact&langs_count=7&theme=merko"/>
 
-</div> 
-
-<br>
-
-  
+</div>   
 
 <div>
-
-  <a href="https://www.instagram.com/edumatheus65/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  <a href="https://www.linkedin.com/in/eduardo-matheus-silva-das-neves-6659a6202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  
-
   ![Snake animation](https://github.com/edumatheus65/edumatheus65/blob/output/github-contribution-grid-snake.svg)
-
-  
 
 </div>
  
