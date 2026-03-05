@@ -66,13 +66,5 @@ Com uma trajetória de transição de carreira aos 30 anos, trago comigo maturid
 ### 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-matheus-silva-das-neves-6659a6202/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:ematheusneves13@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/edumatheus65/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+    ![Snake animation](https://github.com/edumatheus65/edumatheus65/blob/output/github-contribution-grid-snake.svg)
 </div>
