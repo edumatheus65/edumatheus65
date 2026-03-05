@@ -48,8 +48,6 @@ Com uma trajetória de transição de carreira aos 30 anos, trago comigo maturid
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <a href="https://github.com/edumatheus65">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edumatheus65&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
