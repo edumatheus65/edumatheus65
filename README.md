@@ -48,16 +48,14 @@ Com uma trajetória de transição de carreira aos 30 anos, trago comigo maturid
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/edumatheus65">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edumatheus65&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumatheus65&layout=compact&langs_count=7&theme=merko"/>
-  </a>
-</div>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=edumatheus65&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumatheus65&layout=compact&langs_count=7&theme=merko" />
+</p>
 
-<div align="center">
-  <img src="https://github.com/edumatheus65/edumatheus65/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/edumatheus65/edumatheus65/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
