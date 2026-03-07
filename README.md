@@ -1,61 +1,60 @@
-# Olá! Eu sou o Eduardo Matheus 👋
-
-### 🚀 Desenvolvedor Full Stack apaixonado por criar soluções modernas e eficientes.
-
-Com uma trajetória de transição de carreira aos 30 anos, trago comigo maturidade, facilidade de aprendizado e uma paixão genuína pela programação. Atualmente, foco meu desenvolvimento no ecossistema JavaScript/TypeScript, construindo aplicações completas, escaláveis e com ótima experiência de usuário.
-
----
-
-### 💻 No que estou trabalhando:
-
-- 🔭 **Atualmente:** Desenvolvedor Full Stack focado em aplicações web.
-- 🌱 **Evoluindo em:** Especialização em **TypeScript** e arquitetura de sistemas com **Next.js**.
-- 💼 **Projetos de Destaque:** Recentemente finalizei o **[FSW Barber](https://github.com/edumatheus65/fsw-barber)**, uma plataforma completa de agendamentos.
-- 🤖 **IA & Produtividade:** Utilizo **Cursor AI** e Engenharia de Prompt para acelerar o desenvolvimento e garantir código limpo.
-- 💬 **Sobre mim:** Aos 30 anos encontrei na tecnologia o meu propósito. Acredito que nunca é tarde para buscar o que nos apaixona.
+<div align="center">
+  <h1>Eduardo Matheus | Full Stack Developer 🚀</h1>
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20Desafios-brightgreen?style=for-the-badge" />
+  <p align="center">
+    <strong>Especialista em Ecossistema TypeScript (Node.js & React)</strong><br />
+    Focado em Construir Aplicações Escaláveis, Testáveis e Orientadas a Performance.
+  </p>
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🔎 Sobre Mim
+Desenvolvedor Full Stack focado em **autonomia e resolução de problemas**. Minha transição de carreira aos 30 anos trouxe a maturidade necessária para entender que tecnologia serve ao negócio. Não espero a solução: eu debugo, leio a documentação e implemento. Tenho "sangue nos olhos" para aplicar boas práticas de engenharia de software e entregar código de qualidade.
 
-**Frontend**
+---
+
+### 🛠️ Stack & Engenharia
+
+| **Frontend** | **Backend & Infra** | **Qualidade & Processos** |
+| :--- | :--- | :--- |
+| React.js / Next.js 14 | Node.js / TypeScript | **Jest / React Testing Library** |
+| Tailwind / Styled Components | PostgreSQL / MongoDB | **Docker / CI-CD (GitHub Actions)** |
+| Shadcn/UI / Radix UI | Prisma / Sequelize | AWS (S3/EC2) / Serverless |
+| Gerenciamento de Estado | Arquitetura Microserviços | Clean Code & Design Patterns |
+
+---
+
+### 🚀 Tecnologias em Destaque
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-**Backend & Infra**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+---
 
-**AI Tools (Eficiência)**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot">
-</p>
+### 📂 Projetos em Destaque
+
+#### [FSW Barber 💈](https://github.com/edumatheus65/fsw-barber)
+Sistema completo de gestão de barbearias com agendamento em tempo real e interface de alta fidelidade.
+* **Stack:** Next.js 14, TypeScript, Prisma, PostgreSQL e Tailwind CSS.
+* **Destaque Técnico:** Implementação de autenticação com NextAuth e agendamentos validados via Server Components.
+* **Qualidade:** Foco em design responsivo e experiência do usuário (UX) fluida, utilizando componentes do Shadcn/UI.
 
 ---
 
 ### 📫 Vamos nos conectar?
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-matheus-silva-das-neves-6659a6202/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="https://www.linkedin.com/in/eduardo-matheus-silva-das-neves/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ematheusneves13@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/edumatheus65/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
